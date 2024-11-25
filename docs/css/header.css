@@ -1,0 +1,16 @@
+.menu-header {
+  color:rgb(0, 0, 0);
+  /* text-decoration:none; */
+  font-weight: bolder;
+}
+.menu-header:hover {
+  color: rgb(0, 151, 224);
+  
+}
+.menu-header:focus {
+  color: rgb(0, 151, 224);
+}
+.menu-header-off-canvas {
+  background-color: rgb(0, 151, 224);
+}
+
